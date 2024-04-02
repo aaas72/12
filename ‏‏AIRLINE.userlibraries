@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="doc" />
+  <library name="javacsv">
+    <archive path="C:/coding/javacsv.jar" />
+  </library>
+</eclipse-userlibraries>
+
